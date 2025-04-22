@@ -6,4 +6,4 @@ The project developed by this team is a room booking system for students/lecture
 - Frontend (WeChat mini program, for students & lecturers)
 - Frontend (Website, for system admin)
 
-**ARCHIVED ON 22 APRIL 2025**
+**THIS TEAM & ALL FOUR REPOS HAVE BEEN ARCHIVED SINCE 22 APRIL 2025**
